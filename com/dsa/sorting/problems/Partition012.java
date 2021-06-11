@@ -7,7 +7,7 @@ package com.dsa.sorting.problems;
 public class Partition012{
 
     public static void main(String args[]){
-        int inputArr[] = {1, 0, 0, 2, 1, 1, 0, 2, 1, 1, 1, 0, 1, 2, 0};
+        int inputArr[] = {0, 0, 0, 2, 1, 1, 0, 2, 1, 1, 1, 0, 1, 2, 2};
         printArray(inputArr);
 
         sort(inputArr);
@@ -30,6 +30,11 @@ public class Partition012{
                 int temp = arrayToSort[pointer];
                 arrayToSort[pointer] = arrayToSort[last0Index];
                 arrayToSort[last0Index] = temp;
+
+                if(pointer <= last0Index){
+                    pointer++;
+                }
+
             }else if(arrayToSort[pointer] == 2){
                 first2Index--;
                 int temp = arrayToSort[pointer];
