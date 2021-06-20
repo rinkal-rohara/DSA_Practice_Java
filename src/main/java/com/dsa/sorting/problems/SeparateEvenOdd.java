@@ -3,7 +3,7 @@ package com.dsa.sorting.problems;
 
 public class SeparateEvenOdd {
 
-    public static void main(String args[]){
+    public static void demo(){
         int inputArr[] = {5, 8, 6, 2, 55, 89, 6666, 4548, 1, 0, 3, 78, 79};
         printArray(inputArr);
 

@@ -3,7 +3,7 @@ package com.dsa.sorting.problems;
 
 public class PartitionByKey {
 
-    public static void main(String args[]) {
+    public static void demo() {
         int inputArr[] = { 25, 56, 54, 12, 35, 99, 9999, 0, 7, 3, 45, 56 };
         printArray(inputArr);
 

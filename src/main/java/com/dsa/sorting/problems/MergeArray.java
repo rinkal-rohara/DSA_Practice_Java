@@ -4,7 +4,7 @@ and second half lies in second array. Extra space allowed is O(1) */
 package com.dsa.sorting.problems;
 
 public class MergeArray {
-    public static void main(String...args){
+    public static void demo(){
         int arr1[] = {1,2,3,4,5,6};
         int arr2[] = {3,4,5,6,7,8};
 

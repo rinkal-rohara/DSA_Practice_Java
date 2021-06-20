@@ -6,7 +6,7 @@ package com.dsa.sorting.problems;
 
 public class Partition01{
 
-    public static void main(String args[]){
+    public static void demo(){
         int inputArr[] = {1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1};
         printArray(inputArr);
 

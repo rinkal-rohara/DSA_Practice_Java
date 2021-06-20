@@ -2,7 +2,7 @@ package com.dsa.sorting;
 
 public class SelectionSort{
 
-    public static void main(String args[]){
+    public static void demo(){
         int inputArr[] = {2, 3, 1, 78, 4, 5, 9, 10, 32, 23, 23};
         printArray(inputArr);
 

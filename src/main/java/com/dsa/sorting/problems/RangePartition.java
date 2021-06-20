@@ -7,7 +7,7 @@ package com.dsa.sorting.problems;
 
 public class RangePartition{
 
-    public static void main(String args[]){
+    public static void demo(){
         int inputArr[] = {10, 45, 4, 6, 76, 49, 50, 43, 67, 46, 98, 0, -3};
         printArray(inputArr);
 

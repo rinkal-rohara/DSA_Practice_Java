@@ -2,7 +2,7 @@ package com.dsa.sorting;
 
 public class QuickSort{
 
-    public static void main(String args[]){
+    public static void demo(){
         //int inputArr[] = {2, 3, 1, 78, 4, 5, 9, 10, 32, 23, 23};
         //int inputArr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int inputArr[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0};

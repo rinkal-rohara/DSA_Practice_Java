@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 public class SortByOrder {
 
-    public static void main(String args[]) {
+    public static void demo() {
         int inputArr[] = { 2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8 };
         int orderArr[] = {2, 1, 8, 3};
 

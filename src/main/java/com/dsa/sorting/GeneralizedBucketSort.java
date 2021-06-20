@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class GeneralizedBucketSort{
 
-    public static void main(String args[]){
+    public static void demo(){
 
 
         int inputArr[] = {0, 5, 55, 4, 34, 6, 67, 6, 76, 7, 4, 2, 0, 9, 8};

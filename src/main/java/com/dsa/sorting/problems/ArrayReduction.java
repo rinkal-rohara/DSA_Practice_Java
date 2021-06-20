@@ -6,7 +6,7 @@ package com.dsa.sorting.problems;
 import java.util.Arrays;
 
 public class ArrayReduction {
-    public static void main(String...args){
+    public static void demo(){
         int inputArr[] = {5, 1, 1, 1, 2, 3, 5};
         // expected output: 4 3 2 0
         reduceAndPrint(inputArr);

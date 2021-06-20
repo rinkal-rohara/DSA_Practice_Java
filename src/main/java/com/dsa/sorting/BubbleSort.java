@@ -2,7 +2,7 @@ package com.dsa.sorting;
 
 public class BubbleSort{
 
-    public static void main(String args[]){
+    public static void demo(){
         int inputArr[] = {3, 2, 1, 78, 4, 5, 9, 10, 32, 23, 23};
         printArray(inputArr);
 

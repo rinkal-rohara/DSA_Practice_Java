@@ -2,7 +2,7 @@ package com.dsa.sorting;
 
 public class BucketSort{
 
-    public static void main(String args[]){
+    public static void demo(){
 
 
         int inputArr[] = {0, 5, 5, 4, 3, 6, 6, 6, 6, 7, 4, 2, 0, 9, 8};
