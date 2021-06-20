@@ -15,7 +15,7 @@ public class BubbleSort{
 
 
     // Sorting in ascending order
-    static void sort(int arrayToSort[]){
+    public static int[] sort(int arrayToSort[]){
 
         boolean swapHappenedInThePass = true;
 
@@ -34,7 +34,7 @@ public class BubbleSort{
             }
         }
         
-        return;
+        return arrayToSort;
     }
 
     static void printArray(int arrayToPrint[]){
