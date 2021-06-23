@@ -1,5 +1,5 @@
 package com.dsa;
-import static com.dsa.sorting.problems.SortByOrder.demo;
+import static com.dsa.sorting.problems.CheckReverse.demo;
 
 
 public class App 
